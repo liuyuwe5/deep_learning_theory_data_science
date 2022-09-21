@@ -1,1 +1,1 @@
-# Deep_Learning-_Theory_-_Data_Science
+# deep_learning_theory_data_science
