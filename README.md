@@ -1,1 +1,4 @@
-# deep_learning_theory_data_science
+# Deep learning: Theory & Data Science
+
+This is a notes from MAT1510 - Deep learning: Theory & Data Science in University of Toronto 2022 Fall.
+
